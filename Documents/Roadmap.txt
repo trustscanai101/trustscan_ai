@@ -1,0 +1,33 @@
+TrustScan AI Development Roadmap
+
+Phase 1 (MVP)
+✔ Splash Screen
+✔ Google Login
+✔ Home Screen
+✔ Link Checker
+✔ Website Checker
+✔ QR Code Scanner
+✔ Scan History
+
+Phase 2
+✔ Screenshot Scam Detector
+✔ WhatsApp Message Analyzer
+✔ AI Risk Score
+
+Phase 3
+✔ Fake Instagram Profile Checker
+✔ Fake Telegram Group Checker
+✔ Fake Job Detector
+✔ Fake Shopping Website Detector
+
+Phase 4
+✔ Fake Loan Detector
+✔ Fake Investment Detector
+✔ APK Scanner
+✔ AI Chat Assistant
+
+Phase 5
+✔ Premium Subscription
+✔ No Ads
+✔ Unlimited Scans
+✔ Daily Scam Alerts

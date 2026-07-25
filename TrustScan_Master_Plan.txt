@@ -1,0 +1,36 @@
+APP NAME
+TrustScan AI
+
+TAGLINE
+Scan Before You Trust
+
+TARGET USERS
+Students
+Parents
+Professionals
+Senior Citizens
+
+VERSION 1
+- Link Checker
+- Website Checker
+- WhatsApp Message Checker
+- Screenshot Scanner
+- QR Code Scanner
+- Scan History
+- Google Login
+
+VERSION 2
+- Fake Instagram Profile
+- Fake Telegram Group
+- Fake Job Detector
+- Fake Shopping Website
+- Fake Loan Detector
+- Fake Investment Detector
+- Fake APK Scanner
+
+VERSION 3
+- Email Scam Detector
+- UPI Scam Detector
+- AI Chat
+- Family Protection
+- Daily Scam Alerts

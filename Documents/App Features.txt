@@ -1,0 +1,28 @@
+TrustScan AI - Features
+
+CORE FEATURES
+- Link Safety Checker
+- Website Safety Checker
+- QR Code Scanner
+- Screenshot Scam Detector
+- WhatsApp Message Analyzer
+
+SOCIAL MEDIA
+- Fake Instagram Profile Checker
+- Fake Telegram Group Checker
+
+SCAM DETECTION
+- Fake Job Detector
+- Fake Shopping Website Detector
+- Fake Loan Detector
+- Fake Investment Detector
+
+SECURITY
+- APK File Scanner
+- AI Risk Score (0–100)
+- Scan History
+
+PREMIUM
+- Unlimited Scans
+- Detailed AI Report
+- No Ads

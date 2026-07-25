@@ -1,0 +1,36 @@
+TrustScan AI - Future Features
+
+✔ Link Checker
+✔ Website Checker
+✔ WhatsApp Message Checker
+✔ Screenshot Scanner
+✔ QR Code Scanner
+
+✔ Fake Instagram Profile Checker
+✔ Fake Telegram Group Checker
+✔ Fake Facebook Profile Checker
+✔ Fake X (Twitter) Profile Checker
+✔ Fake LinkedIn Profile Checker
+
+✔ Fake Job Detector
+✔ Fake Loan Detector
+✔ Fake Investment Detector
+✔ Fake Shopping Website Detector
+
+✔ APK Malware Scanner
+✔ Email Scam Detector
+✔ UPI Scam Detector
+
+✔ AI Scam Chat
+
+✔ Daily Scam Alerts
+
+✔ Family Protection
+
+✔ Report Scam
+
+✔ Scam News
+
+✔ Emergency Helpline
+
+✔ Blocked Website Warning

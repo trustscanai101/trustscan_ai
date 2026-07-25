@@ -1,0 +1,22 @@
+Official App Name:
+TrustScan AI
+
+Package Name:
+com.trustscanai.app
+
+Tagline:
+Scan Before You Trust
+
+Theme:
+Cyber Security + AI
+
+Primary Color:
+Blue
+
+Secondary Color:
+White
+
+Accent:
+Green (Safe)
+Red (Danger)
+Yellow (Warning)

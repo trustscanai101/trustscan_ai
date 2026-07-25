@@ -1,0 +1,19 @@
+TrustScan AI Fonts
+
+Primary Font
+Inter
+
+Secondary Font
+Poppins
+
+Heading Weight
+Bold (700)
+
+Subheading
+SemiBold (600)
+
+Body
+Regular (400)
+
+Button
+Medium (500)

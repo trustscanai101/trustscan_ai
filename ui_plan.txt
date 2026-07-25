@@ -1,0 +1,53 @@
+TrustScan AI UI
+
+Splash Screen
+
+- Logo
+- TrustScan AI
+- Scan Before You Trust
+
+Login Screen
+
+- Continue with Google
+- Continue as Guest
+
+Home Screen
+
+1. Check Link
+2. Check Website
+3. Check WhatsApp Message
+4. Scan Screenshot
+5. Scan QR Code
+6. Scan History
+
+Result Screen
+
+Risk Score
+
+Status
+
+Safe
+
+Suspicious
+
+Dangerous
+
+Reason
+
+AI Explanation
+
+Recommendation
+
+History Screen
+
+All Previous Scans
+
+Settings
+
+Dark Mode
+
+Language
+
+About
+
+Premium

@@ -1,0 +1,18 @@
+TrustScan AI APIs
+
+Phase 1
+- Gemini API
+- Google Safe Browsing API
+
+Phase 2
+- VirusTotal API
+
+Phase 3
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Analytics
+- Firebase Cloud Messaging
+
+Future
+- AbuseIPDB API
+- URLScan.io API

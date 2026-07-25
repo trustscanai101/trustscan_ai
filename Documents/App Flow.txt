@@ -1,0 +1,33 @@
+TrustScan AI - App Flow
+
+Splash Screen
+        ↓
+Google Login / Guest Login
+        ↓
+Home Screen
+        ↓
+---------------------------------
+| Check Link                  |
+| Check Website               |
+| Scan QR Code                |
+| Scan Screenshot             |
+| WhatsApp Message Checker    |
+---------------------------------
+        ↓
+AI Analysis
+        ↓
+Result Screen
+
+Result Contains:
+- Trust Score (0-100)
+- Risk Level
+- AI Explanation
+- Recommendation
+- Report Scam Button
+- Save to History
+
+History Screen
+
+Settings
+
+Premium

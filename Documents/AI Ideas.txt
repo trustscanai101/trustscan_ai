@@ -1,0 +1,14 @@
+Future AI Features
+
+- AI Scam Chat
+- Fake Instagram Analyzer
+- Fake Telegram Group Analyzer
+- Fake LinkedIn Profile Checker
+- Fake Facebook Profile Checker
+- Fake Job Offer Detector
+- Fake Loan Offer Detector
+- Fake Investment Detector
+- APK Malware Scanner
+- AI Voice Scam Detection
+- QR Code Risk Analyzer
+- Phone Number Reputation Checker
