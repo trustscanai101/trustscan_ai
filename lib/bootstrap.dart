@@ -1,17 +1,27 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import 'app.dart';
+import 'core/storage/storage_providers.dart';
 
 /// Initializes application services and launches the widget tree.
 Future<void> bootstrap() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // SharedPreferences, Hive, and environment config are wired in later steps.
+  // Initialize Hive
+  await Hive.initFlutter();
+
+  // Initialize SharedPreferences
+  final sharedPreferences = await SharedPreferences.getInstance();
 
   runApp(
-    const ProviderScope(
-      child: TrustScanApp(),
+    ProviderScope(
+      overrides: [
+        sharedPreferencesProvider.overrideWithValue(sharedPreferences),
+      ],
+      child: const TrustScanApp(),
     ),
   );
 }
